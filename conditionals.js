@@ -4,7 +4,7 @@ let score = Math.floor(Math.random() * 101);
 
 // TODO: Create a variable called passingGrade and set it to 60
 
-let passingGrade = 60;
+const passingGrade = 60;
 
 console.log("Score:", score);
 
